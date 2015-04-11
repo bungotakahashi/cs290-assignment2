@@ -1,4 +1,6 @@
-table, th, td {
+table, 
+th, 
+td {
   border: 1px solid black;
 }
 
@@ -31,6 +33,7 @@ dl > dt:hover + dd {
   background-color: pink;
   margin-right: 25%;
   margin-top: 20px; 
+
 }
 
 .inner-container {
